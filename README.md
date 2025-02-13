@@ -2,6 +2,12 @@
 
 This is a simple Streamlit web application that provides real-time weather updates for any city using the WeatherAPI.
 
+🚀 Live Demo
+
+## 🚀 Live Demo
+Check out the app online: [Weather App](https://weatherproject.streamlit.app/)
+
+
 ## 📌 Features
 - Fetches real-time weather data
 - Displays temperature, humidity, wind speed, pressure, and UV index
